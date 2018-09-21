@@ -8,3 +8,5 @@ Estimation of the basic reproductive number and mean serial interval of a novel 
 by
 
 Kendra M Wu, Steven Riley
+
+https://doi.org/10.6084/m9.figshare.7115813.v1
