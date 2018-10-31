@@ -1,4 +1,6 @@
 # EpiInference
+R code for manuscript: Wu KM, Riley S (2016) Estimation of the Basic Reproductive Number and Mean Serial Interval of a Novel Pathogen in a Small, Well-Observed Discrete Population. PLoS ONE 11(2): e0148061.
+
 R code for improved inference of epidemic models
 
 This repository is intended to support the manuscript:
